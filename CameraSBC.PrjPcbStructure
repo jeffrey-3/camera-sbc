@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=RK3566_CSI.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=RK3566_CSI.SchDoc|FileName=RK3566_DDR3.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=RK3566_CSI.SchDoc|FileName=RK3566_Ethernet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=RK3566_CSI.SchDoc|FileName=RK3566_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=RK3566_CSI.SchDoc|FileName=RK3566_SDMMC.SchDoc|SheetNumber=3
