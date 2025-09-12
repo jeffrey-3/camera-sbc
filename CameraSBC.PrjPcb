@@ -185,6 +185,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDHVXGYS
 
+[Document9]
+DocumentPath=RK809_PMIC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SBGVQODE
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1164,7 +1181,7 @@ FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
 PreserveParameterLocations=0
-PreserveParameterVisibility=0
+PreserveParameterVisibility=1
 DoGraphics=1
 DoParameters=1
 DoModels=1
