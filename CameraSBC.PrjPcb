@@ -270,6 +270,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAUGLTEN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CameraSBC\Design Rule Check - Layout.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
